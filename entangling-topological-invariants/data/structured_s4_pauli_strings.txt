@@ -1,6 +1,0 @@
-M0=kappa_x
-M1=kappa_y tau_x
-M2=kappa_y tau_z sigma_x
-M3=kappa_x tau_y sigma_z
-M4=kappa_z tau_x sigma_y
-M5=tau_y sigma_x

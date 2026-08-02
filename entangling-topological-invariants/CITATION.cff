@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "Please cite the associated article when using this software or data."
-title: "Entangling Topological Invariants"
-authors:
-  - family-names: "Ikeda"
-    given-names: "Kazuki"
-  - family-names: "Oz"
-    given-names: "Yaron"
-type: software
