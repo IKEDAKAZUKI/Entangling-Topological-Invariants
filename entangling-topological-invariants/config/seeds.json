@@ -1,0 +1,11 @@
+{
+  "seeds": {
+    "finite_shot_tomography": 20260718,
+    "pump_disorder_ensemble_base": 20260900,
+    "pump_full_2d_disorder_single": 20260716,
+    "pump_x_disorder_profile": 19,
+    "readout_confusion_tomography": 20260723,
+    "structured_s4_hemisphere_sobol": 20260716,
+    "structured_s4_sampling": 20260716
+  }
+}
