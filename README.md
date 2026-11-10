@@ -83,13 +83,21 @@ Please cite the associated paper when using these calculations, data, or figures
 **Kazuki Ikeda and Yaron Oz, *Entangling Topological Invariants*, [arXiv:2608.03634](https://arxiv.org/abs/2608.03634) (2026).**
 
 ```bibtex
-@misc{ikeda2026entangling,
-  title         = {Entangling Topological Invariants},
-  author        = {Ikeda, Kazuki and Oz, Yaron},
-  year          = {2026},
-  eprint        = {2608.03634},
-  archivePrefix = {arXiv},
-  url           = {https://arxiv.org/abs/2608.03634}
+@ARTICLE{2026arXiv260803634I,
+       author = {{Ikeda}, Kazuki and {Oz}, Yaron},
+        title = "{Entangling Topological Invariants}",
+      journal = {arXiv e-prints},
+     keywords = {Quantum Physics, Mesoscale and Nanoscale Physics, High Energy Physics - Theory, Mathematical Physics},
+         year = 2026,
+        month = aug,
+          eid = {arXiv:2608.03634},
+        pages = {arXiv:2608.03634},
+          doi = {10.48550/arXiv.2608.03634},
+archivePrefix = {arXiv},
+       eprint = {2608.03634},
+ primaryClass = {quant-ph},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2026arXiv260803634I},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
 
